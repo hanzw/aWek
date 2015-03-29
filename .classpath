@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="wekaT - 副本/src/main/java"/>
-	<classpathentry kind="src" path="wekaT - 副本/src/test/java"/>
 	<classpathentry kind="lib" path="wekaT - 副本/lib/commons-codec-1.3.jar"/>
 	<classpathentry kind="lib" path="wekaT - 副本/lib/commons-io-2.4.jar"/>
 	<classpathentry kind="lib" path="wekaT - 副本/lib/jcommon-1.0.14.jar"/>
